@@ -38,7 +38,8 @@ El objetivo principal fue transformar datos complejos en información clara y ac
 ## Resultado
 
 Obtuve la 🥈**2ª posición en la categoría español** dentro del reto FP20, validando la calidad y aplicabilidad del análisis realizado.
-![Diploma 2ª Posición](./imágenes/dashboard2.png)
+
+![Diploma 2ª Posición](https://github.com/DanielRobles2538/Reto21_FP20_CandyMarket/blob/d859880337b0a02e6ce66ea68a30867bc4cbc2db/Daniel%20Robles%20Aller-FP20-%202posicionCandyMarket.PNG)
 
 ---
 
