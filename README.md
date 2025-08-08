@@ -1,6 +1,5 @@
-# Reto21_FP20_CandyMarket
+# 🥈 Reto 21 FP20 – Power BI: Análisis de 🍬Candy Market 🍭
 Análisis de mercado de distribución de golosinas  con Power BI.
-# 🥈 Reto 21 FP20 – Power BI: Análisis y Visualización de Datos
 
 ## Descripción del Proyecto
 
@@ -12,10 +11,11 @@ El objetivo principal fue transformar datos complejos en información clara y ac
 
 ## Contenido del Repositorio
 
-- Archivo Power BI (.pbix) con el dashboard completo.
 - Imágenes del dashboard que muestran las visualizaciones y KPIs principales.
+<!---- Archivo Power BI (.pbix) con el dashboard completo.
 - Resumen en PDF con la explicación del análisis, metodología y resultados.
 - (Opcional) Datos de muestra para replicar el análisis.
+--->
 
 ---
 
@@ -51,8 +51,8 @@ Soy [Daniel Robles](https://www.linkedin.com/in/danielroblesaller), analista de 
 
 ## Contacto
 
-- Email: [danielroblesaller@gmail.com](mailto:danielroblesaller@gmail.com)  
-- LinkedIn: [Daniel Robles](https://www.linkedin.com/in/danielroblesaller)
+- 📧 Email: [danielroblesaller@gmail.com](mailto:danielroblesaller@gmail.com)  
+- 🌐 LinkedIn: [Daniel Robles](https://www.linkedin.com/in/danielroblesaller)
 
 ---
 
