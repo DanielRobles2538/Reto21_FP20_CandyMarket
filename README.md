@@ -29,15 +29,16 @@ El objetivo principal fue transformar datos complejos en información clara y ac
 
 ## Capturas del Dashboard
 
-![Dashboard Principal]()
+![Dashboard Principal](Candy_a.pdf)
 
-![Análisis Detallado](./imágenes/dashboard2.png)
+
 
 ---
 
 ## Resultado
 
 Obtuve la 🥈**2ª posición en la categoría español** dentro del reto FP20, validando la calidad y aplicabilidad del análisis realizado.
+![Diploma 2ª Posición](./imágenes/dashboard2.png)
 
 ---
 
